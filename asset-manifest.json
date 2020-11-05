@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-App-CrossandNoughts/static/css/main.6fac61e4.chunk.css",
+    "main.js": "/React-App-CrossandNoughts/static/js/main.b34537f5.chunk.js",
+    "main.js.map": "/React-App-CrossandNoughts/static/js/main.b34537f5.chunk.js.map",
+    "runtime-main.js": "/React-App-CrossandNoughts/static/js/runtime-main.9797c88c.js",
+    "runtime-main.js.map": "/React-App-CrossandNoughts/static/js/runtime-main.9797c88c.js.map",
+    "static/js/2.b2d2b9ed.chunk.js": "/React-App-CrossandNoughts/static/js/2.b2d2b9ed.chunk.js",
+    "static/js/2.b2d2b9ed.chunk.js.map": "/React-App-CrossandNoughts/static/js/2.b2d2b9ed.chunk.js.map",
+    "index.html": "/React-App-CrossandNoughts/index.html",
+    "precache-manifest.d52c17ab0e8dab5f2473cf82480ea458.js": "/React-App-CrossandNoughts/precache-manifest.d52c17ab0e8dab5f2473cf82480ea458.js",
+    "service-worker.js": "/React-App-CrossandNoughts/service-worker.js",
+    "static/css/main.6fac61e4.chunk.css.map": "/React-App-CrossandNoughts/static/css/main.6fac61e4.chunk.css.map",
+    "static/js/2.b2d2b9ed.chunk.js.LICENSE.txt": "/React-App-CrossandNoughts/static/js/2.b2d2b9ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9797c88c.js",
+    "static/js/2.b2d2b9ed.chunk.js",
+    "static/css/main.6fac61e4.chunk.css",
+    "static/js/main.b34537f5.chunk.js"
+  ]
+}
